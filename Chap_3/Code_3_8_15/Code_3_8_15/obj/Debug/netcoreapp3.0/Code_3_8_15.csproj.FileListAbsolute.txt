@@ -1,0 +1,11 @@
+E:\Code\Java_Code\Chap_3\Code_3_8_15\Code_3_8_15\bin\Debug\netcoreapp3.0\Code_3_8_15.exe
+E:\Code\Java_Code\Chap_3\Code_3_8_15\Code_3_8_15\bin\Debug\netcoreapp3.0\Code_3_8_15.deps.json
+E:\Code\Java_Code\Chap_3\Code_3_8_15\Code_3_8_15\bin\Debug\netcoreapp3.0\Code_3_8_15.runtimeconfig.json
+E:\Code\Java_Code\Chap_3\Code_3_8_15\Code_3_8_15\bin\Debug\netcoreapp3.0\Code_3_8_15.runtimeconfig.dev.json
+E:\Code\Java_Code\Chap_3\Code_3_8_15\Code_3_8_15\bin\Debug\netcoreapp3.0\Code_3_8_15.dll
+E:\Code\Java_Code\Chap_3\Code_3_8_15\Code_3_8_15\bin\Debug\netcoreapp3.0\Code_3_8_15.pdb
+E:\Code\Java_Code\Chap_3\Code_3_8_15\Code_3_8_15\obj\Debug\netcoreapp3.0\Code_3_8_15.csprojAssemblyReference.cache
+E:\Code\Java_Code\Chap_3\Code_3_8_15\Code_3_8_15\obj\Debug\netcoreapp3.0\Code_3_8_15.AssemblyInfoInputs.cache
+E:\Code\Java_Code\Chap_3\Code_3_8_15\Code_3_8_15\obj\Debug\netcoreapp3.0\Code_3_8_15.AssemblyInfo.cs
+E:\Code\Java_Code\Chap_3\Code_3_8_15\Code_3_8_15\obj\Debug\netcoreapp3.0\Code_3_8_15.dll
+E:\Code\Java_Code\Chap_3\Code_3_8_15\Code_3_8_15\obj\Debug\netcoreapp3.0\Code_3_8_15.pdb

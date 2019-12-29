@@ -1,0 +1,11 @@
+E:\Code\Java_Code\Chap_3\Code_3_6_9_1\Code_3_6_9_1\bin\Debug\netcoreapp3.0\Code_3_6_9_1.exe
+E:\Code\Java_Code\Chap_3\Code_3_6_9_1\Code_3_6_9_1\bin\Debug\netcoreapp3.0\Code_3_6_9_1.deps.json
+E:\Code\Java_Code\Chap_3\Code_3_6_9_1\Code_3_6_9_1\bin\Debug\netcoreapp3.0\Code_3_6_9_1.runtimeconfig.json
+E:\Code\Java_Code\Chap_3\Code_3_6_9_1\Code_3_6_9_1\bin\Debug\netcoreapp3.0\Code_3_6_9_1.runtimeconfig.dev.json
+E:\Code\Java_Code\Chap_3\Code_3_6_9_1\Code_3_6_9_1\bin\Debug\netcoreapp3.0\Code_3_6_9_1.dll
+E:\Code\Java_Code\Chap_3\Code_3_6_9_1\Code_3_6_9_1\bin\Debug\netcoreapp3.0\Code_3_6_9_1.pdb
+E:\Code\Java_Code\Chap_3\Code_3_6_9_1\Code_3_6_9_1\obj\Debug\netcoreapp3.0\Code_3_6_9_1.csprojAssemblyReference.cache
+E:\Code\Java_Code\Chap_3\Code_3_6_9_1\Code_3_6_9_1\obj\Debug\netcoreapp3.0\Code_3_6_9_1.AssemblyInfoInputs.cache
+E:\Code\Java_Code\Chap_3\Code_3_6_9_1\Code_3_6_9_1\obj\Debug\netcoreapp3.0\Code_3_6_9_1.AssemblyInfo.cs
+E:\Code\Java_Code\Chap_3\Code_3_6_9_1\Code_3_6_9_1\obj\Debug\netcoreapp3.0\Code_3_6_9_1.dll
+E:\Code\Java_Code\Chap_3\Code_3_6_9_1\Code_3_6_9_1\obj\Debug\netcoreapp3.0\Code_3_6_9_1.pdb
