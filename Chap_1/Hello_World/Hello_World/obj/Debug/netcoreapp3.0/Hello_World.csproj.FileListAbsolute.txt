@@ -1,0 +1,11 @@
+E:\Code\Java_Code\Chap_1\Hello_World\Hello_World\bin\Debug\netcoreapp3.0\Hello_World.exe
+E:\Code\Java_Code\Chap_1\Hello_World\Hello_World\bin\Debug\netcoreapp3.0\Hello_World.deps.json
+E:\Code\Java_Code\Chap_1\Hello_World\Hello_World\bin\Debug\netcoreapp3.0\Hello_World.runtimeconfig.json
+E:\Code\Java_Code\Chap_1\Hello_World\Hello_World\bin\Debug\netcoreapp3.0\Hello_World.runtimeconfig.dev.json
+E:\Code\Java_Code\Chap_1\Hello_World\Hello_World\bin\Debug\netcoreapp3.0\Hello_World.dll
+E:\Code\Java_Code\Chap_1\Hello_World\Hello_World\bin\Debug\netcoreapp3.0\Hello_World.pdb
+E:\Code\Java_Code\Chap_1\Hello_World\Hello_World\obj\Debug\netcoreapp3.0\Hello_World.csprojAssemblyReference.cache
+E:\Code\Java_Code\Chap_1\Hello_World\Hello_World\obj\Debug\netcoreapp3.0\Hello_World.AssemblyInfoInputs.cache
+E:\Code\Java_Code\Chap_1\Hello_World\Hello_World\obj\Debug\netcoreapp3.0\Hello_World.AssemblyInfo.cs
+E:\Code\Java_Code\Chap_1\Hello_World\Hello_World\obj\Debug\netcoreapp3.0\Hello_World.dll
+E:\Code\Java_Code\Chap_1\Hello_World\Hello_World\obj\Debug\netcoreapp3.0\Hello_World.pdb
