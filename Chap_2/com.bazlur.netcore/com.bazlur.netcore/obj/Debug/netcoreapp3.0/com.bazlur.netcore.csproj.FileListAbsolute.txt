@@ -1,0 +1,11 @@
+E:\Code\Java_Code\Chap_2\com.bazlur.netcore\com.bazlur.netcore\bin\Debug\netcoreapp3.0\com.bazlur.netcore.exe
+E:\Code\Java_Code\Chap_2\com.bazlur.netcore\com.bazlur.netcore\bin\Debug\netcoreapp3.0\com.bazlur.netcore.deps.json
+E:\Code\Java_Code\Chap_2\com.bazlur.netcore\com.bazlur.netcore\bin\Debug\netcoreapp3.0\com.bazlur.netcore.runtimeconfig.json
+E:\Code\Java_Code\Chap_2\com.bazlur.netcore\com.bazlur.netcore\bin\Debug\netcoreapp3.0\com.bazlur.netcore.runtimeconfig.dev.json
+E:\Code\Java_Code\Chap_2\com.bazlur.netcore\com.bazlur.netcore\bin\Debug\netcoreapp3.0\com.bazlur.netcore.dll
+E:\Code\Java_Code\Chap_2\com.bazlur.netcore\com.bazlur.netcore\bin\Debug\netcoreapp3.0\com.bazlur.netcore.pdb
+E:\Code\Java_Code\Chap_2\com.bazlur.netcore\com.bazlur.netcore\obj\Debug\netcoreapp3.0\com.bazlur.netcore.csprojAssemblyReference.cache
+E:\Code\Java_Code\Chap_2\com.bazlur.netcore\com.bazlur.netcore\obj\Debug\netcoreapp3.0\com.bazlur.netcore.AssemblyInfoInputs.cache
+E:\Code\Java_Code\Chap_2\com.bazlur.netcore\com.bazlur.netcore\obj\Debug\netcoreapp3.0\com.bazlur.netcore.AssemblyInfo.cs
+E:\Code\Java_Code\Chap_2\com.bazlur.netcore\com.bazlur.netcore\obj\Debug\netcoreapp3.0\com.bazlur.netcore.dll
+E:\Code\Java_Code\Chap_2\com.bazlur.netcore\com.bazlur.netcore\obj\Debug\netcoreapp3.0\com.bazlur.netcore.pdb
