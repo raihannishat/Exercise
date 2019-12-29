@@ -1,0 +1,11 @@
+E:\Code\Java_Code\Chap_4\Code_4_5_1_f\Code_4_5_1_f\bin\Debug\netcoreapp3.1\Code_4_5_1_f.exe
+E:\Code\Java_Code\Chap_4\Code_4_5_1_f\Code_4_5_1_f\bin\Debug\netcoreapp3.1\Code_4_5_1_f.deps.json
+E:\Code\Java_Code\Chap_4\Code_4_5_1_f\Code_4_5_1_f\bin\Debug\netcoreapp3.1\Code_4_5_1_f.runtimeconfig.json
+E:\Code\Java_Code\Chap_4\Code_4_5_1_f\Code_4_5_1_f\bin\Debug\netcoreapp3.1\Code_4_5_1_f.runtimeconfig.dev.json
+E:\Code\Java_Code\Chap_4\Code_4_5_1_f\Code_4_5_1_f\bin\Debug\netcoreapp3.1\Code_4_5_1_f.dll
+E:\Code\Java_Code\Chap_4\Code_4_5_1_f\Code_4_5_1_f\bin\Debug\netcoreapp3.1\Code_4_5_1_f.pdb
+E:\Code\Java_Code\Chap_4\Code_4_5_1_f\Code_4_5_1_f\obj\Debug\netcoreapp3.1\Code_4_5_1_f.csprojAssemblyReference.cache
+E:\Code\Java_Code\Chap_4\Code_4_5_1_f\Code_4_5_1_f\obj\Debug\netcoreapp3.1\Code_4_5_1_f.AssemblyInfoInputs.cache
+E:\Code\Java_Code\Chap_4\Code_4_5_1_f\Code_4_5_1_f\obj\Debug\netcoreapp3.1\Code_4_5_1_f.AssemblyInfo.cs
+E:\Code\Java_Code\Chap_4\Code_4_5_1_f\Code_4_5_1_f\obj\Debug\netcoreapp3.1\Code_4_5_1_f.dll
+E:\Code\Java_Code\Chap_4\Code_4_5_1_f\Code_4_5_1_f\obj\Debug\netcoreapp3.1\Code_4_5_1_f.pdb
