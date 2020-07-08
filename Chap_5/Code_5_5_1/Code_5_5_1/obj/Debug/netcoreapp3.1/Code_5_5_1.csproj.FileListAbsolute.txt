@@ -9,3 +9,16 @@ E:\Code\Java_Code\Chap_5\Code_5_5_1\Code_5_5_1\obj\Debug\netcoreapp3.1\Code_5_5_
 E:\Code\Java_Code\Chap_5\Code_5_5_1\Code_5_5_1\obj\Debug\netcoreapp3.1\Code_5_5_1.AssemblyInfo.cs
 E:\Code\Java_Code\Chap_5\Code_5_5_1\Code_5_5_1\obj\Debug\netcoreapp3.1\Code_5_5_1.dll
 E:\Code\Java_Code\Chap_5\Code_5_5_1\Code_5_5_1\obj\Debug\netcoreapp3.1\Code_5_5_1.pdb
+E:\Code\GitHub\Exercise\Chap_5\Code_5_5_1\Code_5_5_1\bin\Debug\netcoreapp3.1\Code_5_5_1.exe
+E:\Code\GitHub\Exercise\Chap_5\Code_5_5_1\Code_5_5_1\bin\Debug\netcoreapp3.1\Code_5_5_1.deps.json
+E:\Code\GitHub\Exercise\Chap_5\Code_5_5_1\Code_5_5_1\bin\Debug\netcoreapp3.1\Code_5_5_1.runtimeconfig.json
+E:\Code\GitHub\Exercise\Chap_5\Code_5_5_1\Code_5_5_1\bin\Debug\netcoreapp3.1\Code_5_5_1.runtimeconfig.dev.json
+E:\Code\GitHub\Exercise\Chap_5\Code_5_5_1\Code_5_5_1\bin\Debug\netcoreapp3.1\Code_5_5_1.dll
+E:\Code\GitHub\Exercise\Chap_5\Code_5_5_1\Code_5_5_1\bin\Debug\netcoreapp3.1\Code_5_5_1.pdb
+E:\Code\GitHub\Exercise\Chap_5\Code_5_5_1\Code_5_5_1\obj\Debug\netcoreapp3.1\Code_5_5_1.csprojAssemblyReference.cache
+E:\Code\GitHub\Exercise\Chap_5\Code_5_5_1\Code_5_5_1\obj\Debug\netcoreapp3.1\Code_5_5_1.AssemblyInfoInputs.cache
+E:\Code\GitHub\Exercise\Chap_5\Code_5_5_1\Code_5_5_1\obj\Debug\netcoreapp3.1\Code_5_5_1.AssemblyInfo.cs
+E:\Code\GitHub\Exercise\Chap_5\Code_5_5_1\Code_5_5_1\obj\Debug\netcoreapp3.1\Code_5_5_1.csproj.CoreCompileInputs.cache
+E:\Code\GitHub\Exercise\Chap_5\Code_5_5_1\Code_5_5_1\obj\Debug\netcoreapp3.1\Code_5_5_1.dll
+E:\Code\GitHub\Exercise\Chap_5\Code_5_5_1\Code_5_5_1\obj\Debug\netcoreapp3.1\Code_5_5_1.pdb
+E:\Code\GitHub\Exercise\Chap_5\Code_5_5_1\Code_5_5_1\obj\Debug\netcoreapp3.1\Code_5_5_1.genruntimeconfig.cache

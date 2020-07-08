@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Code\\Java_Code\\Chap_5\\Code_5_5_1\\Code_5_5_1\\Code_5_5_1.csproj": {}
+    "E:\\Code\\GitHub\\Exercise\\Chap_5\\Code_5_5_1\\Code_5_5_1\\Code_5_5_1.csproj": {}
   },
   "projects": {
-    "E:\\Code\\Java_Code\\Chap_5\\Code_5_5_1\\Code_5_5_1\\Code_5_5_1.csproj": {
+    "E:\\Code\\GitHub\\Exercise\\Chap_5\\Code_5_5_1\\Code_5_5_1\\Code_5_5_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\Java_Code\\Chap_5\\Code_5_5_1\\Code_5_5_1\\Code_5_5_1.csproj",
+        "projectUniqueName": "E:\\Code\\GitHub\\Exercise\\Chap_5\\Code_5_5_1\\Code_5_5_1\\Code_5_5_1.csproj",
         "projectName": "Code_5_5_1",
-        "projectPath": "E:\\Code\\Java_Code\\Chap_5\\Code_5_5_1\\Code_5_5_1\\Code_5_5_1.csproj",
+        "projectPath": "E:\\Code\\GitHub\\Exercise\\Chap_5\\Code_5_5_1\\Code_5_5_1\\Code_5_5_1.csproj",
         "packagesPath": "C:\\Users\\Raihan Nishat\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\Java_Code\\Chap_5\\Code_5_5_1\\Code_5_5_1\\obj\\",
+        "outputPath": "E:\\Code\\GitHub\\Exercise\\Chap_5\\Code_5_5_1\\Code_5_5_1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
