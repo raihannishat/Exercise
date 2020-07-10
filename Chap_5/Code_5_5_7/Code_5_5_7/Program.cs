@@ -12,8 +12,8 @@ namespace Code_5_5_7
             double deviation = stat.Deviation(values);
             double mean = stat.Mean(values);
 
-            Console.WriteLine("Deviation: {0}", deviation);
-            Console.WriteLine("Mean: {0}", mean);
+            Console.WriteLine($"Deviation: {deviation}");
+            Console.WriteLine($"Mean: {mean}");
         }
     }
 }

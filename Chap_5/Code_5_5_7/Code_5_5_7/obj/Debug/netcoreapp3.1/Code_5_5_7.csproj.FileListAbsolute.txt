@@ -20,3 +20,5 @@ E:\Code\GitHub\Exercise\Chap_5\Code_5_5_7\Code_5_5_7\obj\Debug\netcoreapp3.1\Cod
 E:\Code\GitHub\Exercise\Chap_5\Code_5_5_7\Code_5_5_7\obj\Debug\netcoreapp3.1\Code_5_5_7.AssemblyInfo.cs
 E:\Code\GitHub\Exercise\Chap_5\Code_5_5_7\Code_5_5_7\obj\Debug\netcoreapp3.1\Code_5_5_7.dll
 E:\Code\GitHub\Exercise\Chap_5\Code_5_5_7\Code_5_5_7\obj\Debug\netcoreapp3.1\Code_5_5_7.pdb
+E:\Code\GitHub\Exercise\Chap_5\Code_5_5_7\Code_5_5_7\obj\Debug\netcoreapp3.1\Code_5_5_7.csproj.CoreCompileInputs.cache
+E:\Code\GitHub\Exercise\Chap_5\Code_5_5_7\Code_5_5_7\obj\Debug\netcoreapp3.1\Code_5_5_7.genruntimeconfig.cache
