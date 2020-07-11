@@ -1,0 +1,4 @@
+E:\Code\GitHub\Exercise\Chap_6\Code_6_6_4\Code_6_6_4\obj\Debug\netcoreapp3.1\Code_6_6_4.csprojAssemblyReference.cache
+E:\Code\GitHub\Exercise\Chap_6\Code_6_6_4\Code_6_6_4\obj\Debug\netcoreapp3.1\Code_6_6_4.AssemblyInfoInputs.cache
+E:\Code\GitHub\Exercise\Chap_6\Code_6_6_4\Code_6_6_4\obj\Debug\netcoreapp3.1\Code_6_6_4.AssemblyInfo.cs
+E:\Code\GitHub\Exercise\Chap_6\Code_6_6_4\Code_6_6_4\obj\Debug\netcoreapp3.1\Code_6_6_4.csproj.CoreCompileInputs.cache
