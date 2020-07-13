@@ -1,0 +1,13 @@
+E:\Code\GitHub\Exercise\Chap_7\Code_7_9\Code_7_9\bin\Debug\netcoreapp3.1\Code_7_9.exe
+E:\Code\GitHub\Exercise\Chap_7\Code_7_9\Code_7_9\bin\Debug\netcoreapp3.1\Code_7_9.deps.json
+E:\Code\GitHub\Exercise\Chap_7\Code_7_9\Code_7_9\bin\Debug\netcoreapp3.1\Code_7_9.runtimeconfig.json
+E:\Code\GitHub\Exercise\Chap_7\Code_7_9\Code_7_9\bin\Debug\netcoreapp3.1\Code_7_9.runtimeconfig.dev.json
+E:\Code\GitHub\Exercise\Chap_7\Code_7_9\Code_7_9\bin\Debug\netcoreapp3.1\Code_7_9.dll
+E:\Code\GitHub\Exercise\Chap_7\Code_7_9\Code_7_9\bin\Debug\netcoreapp3.1\Code_7_9.pdb
+E:\Code\GitHub\Exercise\Chap_7\Code_7_9\Code_7_9\obj\Debug\netcoreapp3.1\Code_7_9.csprojAssemblyReference.cache
+E:\Code\GitHub\Exercise\Chap_7\Code_7_9\Code_7_9\obj\Debug\netcoreapp3.1\Code_7_9.AssemblyInfoInputs.cache
+E:\Code\GitHub\Exercise\Chap_7\Code_7_9\Code_7_9\obj\Debug\netcoreapp3.1\Code_7_9.AssemblyInfo.cs
+E:\Code\GitHub\Exercise\Chap_7\Code_7_9\Code_7_9\obj\Debug\netcoreapp3.1\Code_7_9.csproj.CoreCompileInputs.cache
+E:\Code\GitHub\Exercise\Chap_7\Code_7_9\Code_7_9\obj\Debug\netcoreapp3.1\Code_7_9.dll
+E:\Code\GitHub\Exercise\Chap_7\Code_7_9\Code_7_9\obj\Debug\netcoreapp3.1\Code_7_9.pdb
+E:\Code\GitHub\Exercise\Chap_7\Code_7_9\Code_7_9\obj\Debug\netcoreapp3.1\Code_7_9.genruntimeconfig.cache
