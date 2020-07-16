@@ -8,7 +8,6 @@ namespace Code_7_13_7
     {
         public NegativeNumberException(string message) : base(message)
         {
-
         }
     }
 }
