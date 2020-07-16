@@ -37,6 +37,8 @@ namespace Code_7_3
                     }
                 }
             }
+
+            Console.WriteLine("--- File End ---");
         }
     }
 }
