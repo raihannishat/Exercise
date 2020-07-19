@@ -1,0 +1,13 @@
+E:\Code\GitHub\Exercise\Chap_8\Code_8_6\Code_8_6\bin\Debug\netcoreapp3.1\Code_8_6.exe
+E:\Code\GitHub\Exercise\Chap_8\Code_8_6\Code_8_6\bin\Debug\netcoreapp3.1\Code_8_6.deps.json
+E:\Code\GitHub\Exercise\Chap_8\Code_8_6\Code_8_6\bin\Debug\netcoreapp3.1\Code_8_6.runtimeconfig.json
+E:\Code\GitHub\Exercise\Chap_8\Code_8_6\Code_8_6\bin\Debug\netcoreapp3.1\Code_8_6.runtimeconfig.dev.json
+E:\Code\GitHub\Exercise\Chap_8\Code_8_6\Code_8_6\bin\Debug\netcoreapp3.1\Code_8_6.dll
+E:\Code\GitHub\Exercise\Chap_8\Code_8_6\Code_8_6\bin\Debug\netcoreapp3.1\Code_8_6.pdb
+E:\Code\GitHub\Exercise\Chap_8\Code_8_6\Code_8_6\obj\Debug\netcoreapp3.1\Code_8_6.csprojAssemblyReference.cache
+E:\Code\GitHub\Exercise\Chap_8\Code_8_6\Code_8_6\obj\Debug\netcoreapp3.1\Code_8_6.AssemblyInfoInputs.cache
+E:\Code\GitHub\Exercise\Chap_8\Code_8_6\Code_8_6\obj\Debug\netcoreapp3.1\Code_8_6.AssemblyInfo.cs
+E:\Code\GitHub\Exercise\Chap_8\Code_8_6\Code_8_6\obj\Debug\netcoreapp3.1\Code_8_6.csproj.CoreCompileInputs.cache
+E:\Code\GitHub\Exercise\Chap_8\Code_8_6\Code_8_6\obj\Debug\netcoreapp3.1\Code_8_6.dll
+E:\Code\GitHub\Exercise\Chap_8\Code_8_6\Code_8_6\obj\Debug\netcoreapp3.1\Code_8_6.pdb
+E:\Code\GitHub\Exercise\Chap_8\Code_8_6\Code_8_6\obj\Debug\netcoreapp3.1\Code_8_6.genruntimeconfig.cache
